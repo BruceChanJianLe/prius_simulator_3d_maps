@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm generator="VMB">
-  <MetaInfo format_version="1" map_version="2" validation_version="1"/>
+  <MetaInfo format_version="1" map_version="3" validation_version="1"/>
   <node id="1" lat="" lon="">
     <tag k="local_x" v="-44.2396"/>
     <tag k="local_y" v="-4.5911"/>
@@ -6952,7 +6952,8 @@
     <nd ref="105"/>
     <nd ref="59"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="124">
     <nd ref="35"/>
@@ -7021,7 +7022,8 @@
     <nd ref="219"/>
     <nd ref="48"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="236">
     <nd ref="57"/>
@@ -7071,7 +7073,8 @@
     <nd ref="59"/>
     <nd ref="551"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="555">
     <nd ref="56"/>
@@ -7096,7 +7099,8 @@
     <nd ref="591"/>
     <nd ref="26"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="606">
     <nd ref="552"/>
@@ -7122,7 +7126,8 @@
     <nd ref="633"/>
     <nd ref="625"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="629">
     <nd ref="552"/>
@@ -7148,7 +7153,8 @@
     <nd ref="652"/>
     <nd ref="4"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="668">
     <nd ref="626"/>
@@ -7240,13 +7246,15 @@
     <nd ref="625"/>
     <nd ref="729"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="732">
     <nd ref="729"/>
     <nd ref="60"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="733">
     <nd ref="626"/>
@@ -7285,7 +7293,8 @@
     <nd ref="828"/>
     <nd ref="729"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="821">
     <nd ref="20"/>
@@ -7355,7 +7364,8 @@
     <nd ref="70"/>
     <nd ref="863"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="867">
     <nd ref="67"/>
@@ -7388,7 +7398,8 @@
     <nd ref="966"/>
     <nd ref="12"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="983">
     <nd ref="864"/>
@@ -7439,7 +7450,8 @@
     <nd ref="863"/>
     <nd ref="1004"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1008">
     <nd ref="864"/>
@@ -7466,7 +7478,8 @@
     <nd ref="1025"/>
     <nd ref="1004"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1042">
     <nd ref="2"/>
@@ -7523,13 +7536,15 @@
     <nd ref="1004"/>
     <nd ref="1105"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1108">
     <nd ref="1105"/>
     <nd ref="71"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1109">
     <nd ref="1005"/>
@@ -7563,7 +7578,8 @@
     <nd ref="1134"/>
     <nd ref="1105"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1152">
     <nd ref="24"/>
@@ -7627,7 +7643,8 @@
     <nd ref="1194"/>
     <nd ref="38"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1199">
     <nd ref="1195"/>
@@ -7658,7 +7675,8 @@
     <nd ref="1219"/>
     <nd ref="1183"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1240">
     <nd ref="1195"/>
@@ -7723,7 +7741,8 @@
     <nd ref="1183"/>
     <nd ref="1334"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1338">
     <nd ref="1190"/>
@@ -7735,7 +7754,8 @@
     <nd ref="26"/>
     <nd ref="1341"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1345">
     <nd ref="23"/>
@@ -7763,7 +7783,8 @@
     <nd ref="1363"/>
     <nd ref="1341"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1381">
     <nd ref="1335"/>
@@ -7826,7 +7847,8 @@
     <nd ref="1334"/>
     <nd ref="1468"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1472">
     <nd ref="1335"/>
@@ -7838,7 +7860,8 @@
     <nd ref="4"/>
     <nd ref="1475"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1479">
     <nd ref="1"/>
@@ -7865,7 +7888,8 @@
     <nd ref="1496"/>
     <nd ref="1475"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1513">
     <nd ref="1469"/>
@@ -7932,20 +7956,23 @@
     <nd ref="1565"/>
     <nd ref="13"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1580">
     <nd ref="1468"/>
     <nd ref="1578"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1581">
     <nd ref="1578"/>
     <nd ref="1572"/>
     <nd ref="1184"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1582">
     <nd ref="1469"/>
@@ -7994,7 +8021,8 @@
     <nd ref="1708"/>
     <nd ref="1578"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1726">
     <nd ref="1652"/>
@@ -8057,7 +8085,8 @@
     <nd ref="48"/>
     <nd ref="1773"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1777">
     <nd ref="45"/>
@@ -8083,7 +8112,8 @@
     <nd ref="1793"/>
     <nd ref="1773"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1809">
     <nd ref="1191"/>
@@ -8140,7 +8170,8 @@
     <nd ref="1887"/>
     <nd ref="1891"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1895">
     <nd ref="1884"/>
@@ -8152,13 +8183,15 @@
     <nd ref="12"/>
     <nd ref="1898"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1901">
     <nd ref="1898"/>
     <nd ref="1565"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1902">
     <nd ref="19"/>
@@ -8192,7 +8225,8 @@
     <nd ref="1920"/>
     <nd ref="1898"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1938">
     <nd ref="1892"/>
@@ -8220,7 +8254,8 @@
     <nd ref="1891"/>
     <nd ref="1940"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1944">
     <nd ref="1892"/>
@@ -8232,13 +8267,15 @@
     <nd ref="1475"/>
     <nd ref="1947"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1950">
     <nd ref="1947"/>
     <nd ref="5"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1951">
     <nd ref="1476"/>
@@ -8271,7 +8308,8 @@
     <nd ref="1968"/>
     <nd ref="1940"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="1985">
     <nd ref="1948"/>
@@ -8361,13 +8399,15 @@
     <nd ref="1940"/>
     <nd ref="2046"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2049">
     <nd ref="2046"/>
     <nd ref="1888"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2050">
     <nd ref="1941"/>
@@ -8414,13 +8454,15 @@
     <nd ref="1341"/>
     <nd ref="2076"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2079">
     <nd ref="2076"/>
     <nd ref="27"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2080">
     <nd ref="1342"/>
@@ -8455,7 +8497,8 @@
     <nd ref="2099"/>
     <nd ref="2046"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2118">
     <nd ref="2077"/>
@@ -8528,13 +8571,15 @@
     <nd ref="37"/>
     <nd ref="2160"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2163">
     <nd ref="2160"/>
     <nd ref="1194"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2164">
     <nd ref="34"/>
@@ -8566,7 +8611,8 @@
     <nd ref="2180"/>
     <nd ref="2160"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2196">
     <nd ref="1885"/>
@@ -8679,7 +8725,8 @@
     <nd ref="2561"/>
     <nd ref="78"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2490">
     <nd ref="68"/>
@@ -8728,7 +8775,8 @@
     <nd ref="2505"/>
     <nd ref="37"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2521">
     <nd ref="68"/>
@@ -8786,7 +8834,8 @@
     <nd ref="2246"/>
     <nd ref="2591"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2629">
     <nd ref="27"/>
@@ -8849,7 +8898,8 @@
     <nd ref="2591"/>
     <nd ref="2642"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2682">
     <nd ref="5"/>
@@ -8896,6 +8946,7 @@
     <nd ref="2642"/>
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="solid"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2687">
     <nd ref="2634"/>
@@ -8919,13 +8970,15 @@
     <nd ref="2642"/>
     <nd ref="2694"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2698">
     <nd ref="2694"/>
     <nd ref="79"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="2736">
     <nd ref="2693"/>
@@ -9004,7 +9057,8 @@
     <nd ref="5037"/>
     <nd ref="70"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="5014">
     <nd ref="46"/>
@@ -9103,7 +9157,8 @@
     <nd ref="5112"/>
     <nd ref="70"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="5105">
     <nd ref="86"/>
@@ -9141,13 +9196,15 @@
     <nd ref="1773"/>
     <nd ref="5117"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="5120">
     <nd ref="5117"/>
     <nd ref="49"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="5121">
     <nd ref="1774"/>
@@ -9181,7 +9238,8 @@
     <nd ref="5184"/>
     <nd ref="1887"/>
     <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
+    <tag k="subtype" v="dashed"/>
+    <tag k="lane_change" v="yes"/>
   </way>
   <way id="5153">
     <nd ref="5118"/>
